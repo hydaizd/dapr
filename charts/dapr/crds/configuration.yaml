@@ -4,7 +4,7 @@ metadata:
   name: configurations.dapr.io
 spec:
   group: dapr.io
-  versions: v1alpha1
+  version: v1alpha1
   names:
     kind: Configuration
     plural: configurations
